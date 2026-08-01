@@ -76,7 +76,10 @@ The dataset was cleaned and transformed using **Power Query**.
 
 Provides a high-level overview of business performance, helping stakeholders monitor sales, customers, and revenue efficiently.
 
-![Dashboard Page 1](Dashboard page 1.png)
+### Dashboard Page 1
+
+![Dashboard Page 1](dashboard-page-1.png)
+
 
 ---
 
@@ -93,6 +96,8 @@ Provides a high-level overview of business performance, helping stakeholders mon
 ### Business Insight
 
 Helps identify customer purchasing patterns, geographical distribution, and customer engagement.
+
+### Dashboard Page 2
 
 ![Dashboard Page 2](dashboard-page-2.png)
 
@@ -112,6 +117,8 @@ Helps identify customer purchasing patterns, geographical distribution, and cust
 ### Business Insight
 
 Provides insights into product sales, delivery performance, seller contribution, and customer satisfaction.
+
+### Dashboard Page 3
 
 ![Dashboard Page 3](dashboard-page-3.png)
 

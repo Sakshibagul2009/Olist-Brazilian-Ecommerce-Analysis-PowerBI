@@ -76,7 +76,7 @@ The dataset was cleaned and transformed using **Power Query**.
 
 Provides a high-level overview of business performance, helping stakeholders monitor sales, customers, and revenue efficiently.
 
-![Dashboard Page 1](dashboard-page-1.png)
+![Dashboard Page 1](Dashboard page 1.png)
 
 ---
 

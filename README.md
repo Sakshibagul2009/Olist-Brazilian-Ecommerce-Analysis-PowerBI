@@ -1,172 +1,145 @@
-# 🛒 Olist Brazilian E-Commerce Sales Analysis Dashboard
+# 🛒 Olist Brazilian E-Commerce Analytics Dashboard
 
-## 📌 Project Overview
-
-The **Olist Brazilian E-Commerce Sales Analysis Dashboard** is an interactive Power BI project built using the **Olist Brazilian E-Commerce Public Dataset**. This dashboard provides valuable business insights into sales performance, customer behavior, product categories, payments, deliveries, and seller performance through interactive visualizations.
-
-This project demonstrates the complete Business Intelligence workflow, including **data cleaning, transformation, data modeling, DAX calculations, and dashboard development** using Microsoft Power BI.
+An interactive **Power BI Dashboard** built using the **Olist Brazilian E-Commerce Dataset** to analyze sales performance, customer behavior, geographic distribution, payment methods, and customer satisfaction. The dashboard helps transform raw e-commerce data into meaningful business insights for better decision-making.
 
 ---
 
-## 🎯 Project Objectives
+# 📌 Project Overview
 
-- Analyze sales performance across different periods.
-- Monitor customer orders and revenue.
-- Identify top-selling product categories.
-- Analyze customer purchasing behavior.
-- Compare seller performance.
-- Evaluate payment methods.
-- Monitor delivery efficiency.
-- Analyze customer review scores.
-- Create an interactive dashboard for business decision-making.
+This project analyzes Olist's Brazilian E-Commerce dataset (2016–2018) using Microsoft Power BI. The dashboard is divided into three interactive pages that provide a complete overview of sales performance, customer and seller distribution, payment methods, and customer reviews.
+
+The report includes interactive filters, KPI cards, maps, bar charts, line charts, donut charts, and tables to help users explore the data efficiently.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+# 🎯 Project Objectives
 
-| Tool | Purpose |
-|------|---------|
-| Microsoft Power BI | Dashboard Development |
-| Power Query | Data Cleaning & Transformation |
-| DAX | Measures & KPIs |
-| Data Modeling | Table Relationships |
-| Excel / CSV | Data Source |
-| Power BI Visuals | Interactive Visualizations |
+- Analyze overall sales performance.
+- Track total orders, revenue, and payments.
+- Identify top-performing product categories.
+- Analyze customer and seller distribution.
+- Monitor monthly revenue trends.
+- Understand payment methods used by customers.
+- Measure customer satisfaction using review scores.
+- Create an interactive dashboard for business analysis.
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+# 🛠️ Tools Used
 
-The dataset was cleaned and transformed using **Power Query**.
-
-### Data Preparation Steps
-
-- Imported multiple Olist dataset tables.
-- Removed duplicate records.
-- Checked missing values.
-- Corrected data types.
-- Created relationships between tables.
-- Extracted Year and Month from Order Purchase Date.
-- Built calculated columns.
-- Created DAX measures.
-- Optimized the data model.
+- Microsoft Power BI
+- Power Query
+- Microsoft Excel / CSV Dataset
+- Data Modeling
+- Interactive Visualizations
 
 ---
 
 # 📊 Dashboard Pages
 
-## 🏠 Page 1 – Executive Overview
+## 🏠 Page 1 – Sales Overview
 
-### KPI Cards
+This page provides an overview of business performance using KPI cards and interactive charts.
 
-- 📦 Total Orders
-- 💰 Total Sales
-- 👥 Total Customers
-- 💳 Average Order Value
+### Key KPIs
+
+- Total Orders
+- Total Revenue
+- Average Order Value
+- Average Customer Rating
+- Total Payment
 
 ### Visualizations
 
-- Monthly Sales Trend
-- Orders by Product Category
-- Top States by Sales
-- Payment Method Distribution
-- Order Status Analysis
+- Top 10 Product Categories by Revenue
+- Monthly Revenue Trend
+- Order Status Overview
+- Revenue by Top 5 States
+- Revenue by Year
 
-### Business Insight
+### Business Insights
 
-Provides a high-level overview of business performance, helping stakeholders monitor sales, customers, and revenue efficiently.
+- Identify top-performing product categories.
+- Compare yearly revenue growth.
+- Analyze monthly revenue trends.
+- Monitor order status.
+- Compare revenue across different states.
 
-### Dashboard Page 1
-
-![Dashboard Page 1](Dashboard-page-1.png)
-
+![Sales Overview](Dashboard-page-1.png)
 
 ---
 
-## 👥 Page 2 – Customer Analysis
+## 🌎 Page 2 – Geographic Analysis
+
+This page analyzes customer and seller distribution across Brazil.
 
 ### Visualizations
 
-- Customer Distribution by State
-- Top Cities by Orders
-- Customer Growth Trend
-- Purchase Frequency
-- Customer Segmentation
+- Orders by Customer State (Map)
+- Top 10 Seller Cities by Revenue
+- Revenue by Seller State
 
-### Business Insight
+### Business Insights
 
-Helps identify customer purchasing patterns, geographical distribution, and customer engagement.
+- Identify regions with the highest customer orders.
+- Compare seller performance across states.
+- Understand geographical sales distribution.
 
-### Dashboard Page 2
-
-![Dashboard Page 2](Dashboard-page-2.png)
+![Geographic Analysis](Dashboard-page-2.png)
 
 ---
 
-## 📦 Page 3 – Product & Delivery Analysis
+## 💳 Page 3 – Payment & Customer Satisfaction
+
+This page focuses on payment analysis and customer review performance.
+
+### Key KPIs
+
+- Total Payment Value
+- Total Orders
+- Average Review Score
+- Total Reviews
 
 ### Visualizations
 
-- Product Category Performance
-- Revenue by Category
-- Delivery Time Analysis
-- Seller Performance
-- Customer Review Scores
-- Shipping Performance
+- Payment Value by Payment Type and Year
+- Payment Type Mix
+- Average Review Score by Product Category
 
-### Business Insight
+### Business Insights
 
-Provides insights into product sales, delivery performance, seller contribution, and customer satisfaction.
+- Understand customer payment preferences.
+- Compare payment value over different years.
+- Measure customer satisfaction across product categories.
+- Analyze review scores to improve customer experience.
 
-### Dashboard Page 3
-
-![Dashboard Page 3](Dashboard-page-3.png)
+![Payment & Customer Satisfaction](Dashboard-page-3.png)
 
 ---
 
 # 📈 Dashboard Features
 
 - Interactive KPI Cards
-- Dynamic Filters & Slicers
+- Year Filter
+- Product Category Filter
+- Order Status Filter
+- Interactive Maps
+- Line Charts
+- Bar Charts
+- Donut Charts
+- Tables
 - Cross Filtering
-- Drill-down Analysis
-- Trend Analysis
-- Customer Insights
-- Product Performance Analysis
-- Delivery Performance Monitoring
-- Payment Analysis
 
 ---
 
 # 💡 Key Insights
 
-- Sales trends can be monitored over time.
-- Product categories contribute differently to revenue.
-- Customer behavior varies across Brazilian states.
-- Payment analysis highlights preferred payment methods.
-- Delivery performance impacts customer satisfaction.
-- Seller analysis identifies top-performing sellers.
-- Review scores provide customer satisfaction insights.
-
----
-
-# 📷 Dashboard Preview
-
-## 🏠 Executive Overview
-
-![Executive Overview](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-1.png)
-
----
-
-## 👥 Customer Analysis
-
-![Customer Analysis](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-2.png)
-
----
-
-## 📦 Product & Delivery Analysis
-
-![Product & Delivery Analysis](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-3.png)
+- Revenue increased significantly between 2016 and 2018.
+- Credit Card is the most preferred payment method.
+- São Paulo generates the highest revenue.
+- Health & Beauty is the top-performing product category.
+- Customer review scores remain consistently above 4 out of 5.
+- Monthly revenue trends help identify seasonal sales patterns.
 
 ---
 
@@ -175,49 +148,35 @@ Provides insights into product sales, delivery performance, seller contribution,
 ```text
 Olist-Brazilian-Ecommerce-Analysis-PowerBI/
 │
-├── Olist_Ecommerce_Dashboard.pbix
+├── PR.3.pbix
 ├── README.md
-├── dashboard-page-1.png
-├── dashboard-page-2.png
-└── dashboard-page-3.png
+├── Dashboard-page-1.png
+├── Dashboard-page-2.png
+└── Dashboard-page-3.png
 ```
 
 ---
 
 # 🚀 How to Use
 
-1. Download the `.pbix` file.
-2. Open it using **Microsoft Power BI Desktop**.
-3. Refresh the data if required.
-4. Explore the dashboard using filters and slicers.
-5. Interact with the visualizations to gain business insights.
+1. Download the Power BI (.pbix) file.
+2. Open it using Microsoft Power BI Desktop.
+3. Explore each dashboard page.
+4. Use the Year, Product Category, and Order Status filters.
+5. Interact with charts to gain business insights.
 
 ---
 
 # 📚 Skills Demonstrated
 
-- Microsoft Power BI
+- Power BI
 - Power Query
-- DAX
 - Data Cleaning
 - Data Transformation
 - Data Modeling
 - Data Visualization
+- Dashboard Design
 - Business Intelligence
-- Dashboard Development
-
----
-
-# 🌟 Project Highlights
-
-- 📊 Interactive Dashboard
-- 🛒 Sales Analysis
-- 👥 Customer Insights
-- 📦 Product Performance
-- 🚚 Delivery Analysis
-- 💳 Payment Analysis
-- ⭐ Customer Review Analysis
-- 📈 Business Intelligence Reporting
 
 ---
 
@@ -225,27 +184,23 @@ Olist-Brazilian-Ecommerce-Analysis-PowerBI/
 
 ## Sakshi Bagul
 
-**Aspiring Data Analyst | Power BI Developer**
+Aspiring Data Analyst
 
 ### Skills
 
-- 📊 Power BI
-- 🧹 Power Query
-- 🗄️ SQL
-- 🐍 Python
-- 📑 Excel
-- 📈 Data Visualization
+- Microsoft Power BI
+- SQL
+- Python
+- Excel
+- Power Query
+- Data Visualization
 
 ---
 
 # 📌 Conclusion
 
-This project demonstrates how raw e-commerce data can be transformed into meaningful business insights using Microsoft Power BI. By applying data cleaning, modeling, DAX calculations, and interactive visualizations, the dashboard helps analyze sales performance, customer behavior, product performance, payment methods, and delivery efficiency to support data-driven decision-making.
+This Power BI project demonstrates how e-commerce data can be transformed into meaningful business insights using interactive dashboards. The report helps analyze sales performance, customer behavior, seller performance, payment methods, and customer satisfaction, enabling data-driven business decisions.
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
-
-**Thank you for visiting this repository! 🚀**
+⭐ If you found this project helpful, consider giving it a **Star** on GitHub.

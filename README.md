@@ -154,19 +154,19 @@ Provides insights into product sales, delivery performance, seller contribution,
 
 ## 🏠 Executive Overview
 
-![Executive Overview](dashboard-page-1.png)
+![Executive Overview](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-1.png)
 
 ---
 
 ## 👥 Customer Analysis
 
-![Customer Analysis](dashboard-page-2.png)
+![Customer Analysis](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-2.png)
 
 ---
 
 ## 📦 Product & Delivery Analysis
 
-![Product & Delivery Analysis](dashboard-page-3.png)
+![Product & Delivery Analysis](https://raw.githubusercontent.com/Sakshibagul2009/Olist-Brazilian-Ecommerce-Analysis-PowerBI/main/Dashboard-page-3.png)
 
 ---
 

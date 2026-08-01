@@ -78,7 +78,7 @@ Provides a high-level overview of business performance, helping stakeholders mon
 
 ### Dashboard Page 1
 
-![Dashboard Page 1](dashboard-page-1.png)
+![Dashboard Page 1](Dashboard-page-1.png)
 
 
 ---
@@ -99,7 +99,7 @@ Helps identify customer purchasing patterns, geographical distribution, and cust
 
 ### Dashboard Page 2
 
-![Dashboard Page 2](dashboard-page-2.png)
+![Dashboard Page 2](Dashboard-page-2.png)
 
 ---
 
@@ -120,7 +120,7 @@ Provides insights into product sales, delivery performance, seller contribution,
 
 ### Dashboard Page 3
 
-![Dashboard Page 3](dashboard-page-3.png)
+![Dashboard Page 3](Dashboard-page-3.png)
 
 ---
 

@@ -65,6 +65,8 @@ This page provides an overview of business performance using KPI cards and inter
 - Monitor order status.
 - Compare revenue across different states.
 
+### Dashboard Page 1
+
 ![Sales Overview](Dashboard-page-1.png)
 
 ---
@@ -84,6 +86,8 @@ This page analyzes customer and seller distribution across Brazil.
 - Identify regions with the highest customer orders.
 - Compare seller performance across states.
 - Understand geographical sales distribution.
+
+### Dashboard Page 2
 
 ![Geographic Analysis](Dashboard-page-2.png)
 
@@ -112,6 +116,8 @@ This page focuses on payment analysis and customer review performance.
 - Compare payment value over different years.
 - Measure customer satisfaction across product categories.
 - Analyze review scores to improve customer experience.
+
+  ### Dashboard Page 3
 
 ![Payment & Customer Satisfaction](Dashboard-page-3.png)
 
